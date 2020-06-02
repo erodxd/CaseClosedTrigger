@@ -8,4 +8,4 @@ When an opportunity is created, attach similar deals that have...
 - A matching account industry
 - "Closed Won" within the past year
 
-![Trigger Flow](/Users/e.rodriguez/Desktop/Salesforce Apex/ComparableOpportunities/force-app/main/default/contentassets/com_opp_trigger.png)
+![Trigger Flow](https://ibb.co/bLWMsW0)
