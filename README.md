@@ -8,4 +8,4 @@ When an opportunity is created, attach similar deals that have...
 - A matching account industry
 - "Closed Won" within the past year
 
-![Trigger Flow](https://i.ibb.co/Qnb3Pbg/com-opp-trigger.png)
+![Trigger Flow](https://i.imgur.com/P42wPNe.png)
